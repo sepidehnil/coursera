@@ -153,27 +153,57 @@ body{
 }
 
 @media(min-width: 1200px) and (max-width: 1399px){
+#phone{
+    margin-left: 500px;
+   margin-bottom: 65px;
+}
+.navbar-toggler{
+	margin-bottom: 60px;
+}
+
 }
 
 @media(min-width: 992px) and (max-width: 1199px){
+#phone{
+    margin-left: 300px;
+    margin-bottom: 65px;
+}
+.navbar-toggler{
+	margin-bottom: 60px;
+}
 
 }
 
 @media(min-width: 768px) and (max-width: 991px){
-
-}
-@media(min-width: 576px) and (max-width: 767px){
-}
-
-@media(max-width: 575px){
 #logo-img{
-	width: 80px;
-	height: 80px;
+	width: 100px;
+	height: 100px;
 	margin-left: 0px;
-	margin-top: 6px;
+	margin-top: 0px;
 }
 #header-brand {
-	font-size: 30px;
+	font-size: 38px;
+	margin-bottom: 0px;
+}
+#phone{
+    margin-left: 240px;
+    font-size: 15px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.navbar-toggler{
+	margin-bottom: 0px;
+}
+}
+@media(min-width: 576px) and (max-width: 767px){
+#logo-img{
+	width: 100px;
+	height: 100px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+#header-brand {
+	font-size: 35px;
 	margin-bottom: 0px;
 }
 #phone{
@@ -184,6 +214,28 @@ body{
 }
 .navbar-toggler{
 	margin-bottom: 0px;
+}
+}
+@media(max-width: 575px){
+#logo-img{
+	width: 90px;
+	height: 90px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+#header-brand {
+	font-size: 30px;
+	margin-bottom: 0px;
+}
+#phone{
+    margin-left: 50px;
+    font-size: 13px;
+    margin-bottom: 0px;
+    margin-top: 65px;
+}
+.navbar-toggler{
+	margin-bottom: 0px;
+}
 }
 
 
