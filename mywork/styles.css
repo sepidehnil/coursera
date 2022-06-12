@@ -226,20 +226,33 @@ body{
 	float: left;
 }
 #header-brand {
-	font-size: 35px;
+	font-size: 30px;
 	margin-bottom: 0px;
 	margin-top: 20px;
 	margin-left: 0px;
 }
 #phone{
     margin-left: 0px;
-    font-size: 13px;
+    font-size: 10px;
     margin-bottom: 0px;
+}
+.bi-telephone{
+	margin-left: 0px;
 }
 
 .navbar-toggler{
 	margin-bottom: 0px;
 	margin-top: 0px;
+}
+#kosher-logo{
+	width: 15px;
+	height: 15px;
+	margin-top: 0px;
+}
+#kosher{
+	margin-left: 10px;
+	font-size: 10px;
+
 }
 }
 
