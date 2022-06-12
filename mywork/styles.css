@@ -154,7 +154,7 @@ body{
 
 @media(min-width: 1200px) and (max-width: 1399px){
 #phone{
-    margin-left: 500px;
+   margin-left: 500px;
    margin-bottom: 65px;
 }
 .navbar-toggler{
@@ -228,7 +228,7 @@ body{
 	margin-bottom: 0px;
 }
 #phone{
-    margin-left: 70px;
+    margin-left: 0px;
     font-size: 13px;
     margin-bottom: 0px;
     margin-top: 65px;
