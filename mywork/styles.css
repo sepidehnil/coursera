@@ -218,31 +218,27 @@ body{
 }
 @media(max-width: 575px){
 #logo-img{
-	width: 90px;
-	height: 90px;
+	background: url();
+	width: 0px;
+	height:0px;
+	margin-right: 0px;
 	margin-left: 0px;
-	margin-top: 0px;
-	margin-bottom: 20px;
+	float: left;
 }
 #header-brand {
-	font-size: 30px;
+	font-size: 35px;
 	margin-bottom: 0px;
 	margin-top: 20px;
+	margin-left: 0px;
 }
 #phone{
-    margin-left: 70px;
+    margin-left: 0px;
     font-size: 13px;
     margin-bottom: 0px;
-    margin-top: 105px;
-    margin-right: 0px;
-    padding: 0px;
 }
-.bi-telephone{
-	margin-left: 0px;
-	color: #0F6319;
-}
+
 .navbar-toggler{
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 	margin-top: 0px;
 }
 }
