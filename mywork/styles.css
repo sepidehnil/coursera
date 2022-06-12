@@ -31,9 +31,7 @@ body{
     margin-bottom: 65px;
     margin-left: 600px;
 }
-#deliver{
-	margin-left: 20px;
-}
+
 #kosher-logo{
 	background: url('images/1200px-Star_full.svg.png');
 	width: 20px;
@@ -155,7 +153,6 @@ body{
 }
 
 @media(min-width: 1200px) and (max-width: 1399px){
-
 }
 
 @media(min-width: 992px) and (max-width: 1199px){
@@ -169,4 +166,28 @@ body{
 }
 
 @media(max-width: 575px){
+#logo-img{
+	width: 80px;
+	height: 80px;
+	margin-left: 0px;
+	margin-top: 6px;
 }
+#header-brand {
+	font-size: 30px;
+	margin-bottom: 0px;
+}
+#phone{
+    margin-left: 50px;
+    font-size: 15px;
+    margin-bottom: 0px;
+    margin-top: 65px;
+}
+.navbar-toggler{
+	margin-bottom: 0px;
+}
+
+
+
+
+
+
